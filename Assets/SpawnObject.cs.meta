@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 7774399319c4e2c4198ddf5b063cf962
+timeCreated: 1525197955
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - BirdPrefab: {fileID: 1500082881795266, guid: 1fb7685b193bf68489269d43c58e8ea8,
+      type: 2}
+  - Spawner: {fileID: 1377181450610312, guid: 28fe92e43e488d94aaeb9fecbcdfaa76, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

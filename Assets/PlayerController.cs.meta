@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f329d85d02faf3e4c99c986b27de5e6d
+timeCreated: 1525210288
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ProjectilePrefab: {fileID: 1891636187639432, guid: 9bb3e57f65649384e9932d2fc4e2bc59,
+      type: 2}
+  - GameOver: {fileID: 1006007173242992, guid: a046c6bec2f2ab94b86783769799e058, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
